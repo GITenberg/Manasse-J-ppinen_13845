@@ -20,6 +20,8 @@ creator:
     - http://www.kirjasto.sci.fi/lassila.htm
     - http://fi.wikipedia.org/wiki/Algot_Untola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13845#Manasse-J-ppinen
 gutenberg_issued: '2004-10-25'
 gutenberg_type: Text
 identifiers:
